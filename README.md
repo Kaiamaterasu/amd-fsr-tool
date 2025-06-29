@@ -8,6 +8,10 @@
 
 The **AMD FSR Tool** is a comprehensive, production-ready utility for managing FidelityFX Super Resolution (FSR) settings on Linux systems with AMD GPUs. This tool provides enterprise-grade FSR management with advanced features like automated optimization, performance monitoring, and multi-launcher support.
 
+packages you need 
+
+         sudo pacman -S mesa-utils vulkan-tools cpupower gamescope python3 curl
+
 ### ✨ What makes this tool special?
 - **🎮 Universal Game Support**: Works with Steam, Lutris, Heroic, and standalone games
 - **🤖 AI-like Optimization**: Automatically detects games and applies optimal FSR settings
