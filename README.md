@@ -431,7 +431,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Documentation**: This README and `amd-fsr --help`
 - **Issues**: [GitHub Issues](https://github.com/Kaiamaterasu/amd-fsr-tool/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Kaiamaterasu/amd-fsr-tool/discussions)
 - **Community**: Linux gaming forums and subreddits
 
 ---
