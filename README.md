@@ -12,7 +12,6 @@ The **AMD FSR Tool** is a comprehensive, production-ready utility for managing F
 - **🎮 Universal Game Support**: Works with Steam, Lutris, Heroic, and standalone games
 - **🤖 AI-like Optimization**: Automatically detects games and applies optimal FSR settings
 - **📊 Performance Analytics**: Real-time monitoring, benchmarking, and auto-tuning
-- **🌐 Web Interface**: Modern browser-based management interface
 - **⚡ System Integration**: Deep system optimizations for maximum performance
 - **🔧 Professional Features**: Backup/restore, profiles, presets, and batch operations
 
