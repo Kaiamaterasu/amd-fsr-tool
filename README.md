@@ -139,7 +139,7 @@ $ amd-fsr -gpu-info
 ### Quick Install
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/amd-fsr-tool.git
+git clone https://github.com/Kaiamaterasu/amd-fsr-tool.git
 
 # Navigate to the directory
 cd amd-fsr-tool
@@ -394,7 +394,7 @@ amd-fsr -restore /home/user/.config/amd-fsr/backups/20240629_120000
 We welcome contributions! Here's how you can help:
 
 ### 🐛 Bug Reports
-- Use the [Issues](https://github.com/yourusername/amd-fsr-tool/issues) tab
+- Use the [Issues](https://github.com/Kaiamaterasu/amd-fsr-tool/issues) tab
 - Include system information (`amd-fsr -gpu-info`)
 - Provide steps to reproduce
 
@@ -430,8 +430,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Documentation**: This README and `amd-fsr --help`
-- **Issues**: [GitHub Issues](https://github.com/yourusername/amd-fsr-tool/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/amd-fsr-tool/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Kaiamaterasu/amd-fsr-tool/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Kaiamaterasu/amd-fsr-tool/discussions)
 - **Community**: Linux gaming forums and subreddits
 
 ---
